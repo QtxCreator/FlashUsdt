@@ -7,11 +7,11 @@ orted
 | Wallet | Type | Network Support |
 |--------|------|----------------|
 | Trust Wallet | Mobile | Multi-chain |
-| Binance Web3 Wallet | Extension | Binance Smart Chain |
+| Binance Web3 Wallet | Mobile + Extension | Binance Smart Chain |
 | Safepal Wallet | Mobile + Hardware | Multi-chain |
-| Metamask Wallet | Extension | Ethereum + L2s |
-| OKX Wallet | Extension | Multi-chain |
-| Base Wallet | Extension | Base (Coinbase L2) |
+| Metamask Wallet | Mobile + Extension | Ethereum + L2s |
+| OKX Wallet | Mobile + Extension | Multi-chain |
+| Base Wallet | Mobile + Extension | Base (Coinbase L2) |
 ## Tokens Available
 - **USDT** (Tether USD)
 - **BTC** (Bitcoin)
