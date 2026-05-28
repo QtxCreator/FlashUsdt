@@ -1,5 +1,5 @@
 # ByteNexx - Flash Token Service
-> Flash tokens provider | Demo 100% FREE | All major wallets & networks supp
+> Flash tokens provider | All major wallets & networks supp
 orted
 ---
 ## Supported Wallets
